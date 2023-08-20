@@ -63,16 +63,16 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y3zBXxlUcJIAAAAC/demon-slayer.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/y3zBXxlUcJIAAAAC/demon-slayer.gif"  />
 
 ###
 
-<img align="left" height="150" src="https://i0.wp.com/www.lacosacine.com/wp-content/uploads/2019/04/drogon.gif?resize=400%2C225&ssl=1"  />
+<img align="left" height="100" src="https://i0.wp.com/www.lacosacine.com/wp-content/uploads/2019/04/drogon.gif?resize=400%2C225&ssl=1"  />
 
 ###
 
 <div align="center">
-  <img height="150" src="https://images.squarespace-cdn.com/content/v1/59adbbdfcf81e0f6ca85b80a/1542387351398-LVC39PQ1UCAXXU4PT2OJ/image-asset.gif?format=1500w"  />
+  <img height="100" src="https://images.squarespace-cdn.com/content/v1/59adbbdfcf81e0f6ca85b80a/1542387351398-LVC39PQ1UCAXXU4PT2OJ/image-asset.gif?format=1500w"  />
 </div>
 
 ###
