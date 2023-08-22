@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Carolina Álvarez, a student of Systems and Informatics Engineering.</h1>
+<h1 align="left">Hi! I'm Carolina Álvarez, student of Systems and Informatics Engineering.</h1>
 
 ###
 
