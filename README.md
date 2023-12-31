@@ -1,8 +1,8 @@
-<h1 align="left">Hi! I'm Carolina Álvarez, student of Systems and Informatics Engineering.</h1>
+<h1 align="left">Hello! I'm Carolina, a student of Computer Engineering at the National University of Colombia.</h1>
 
 ###
 
-<p align="left">Within this repository, you'll discover projects, exercises, and explorations centered around programming, computer science, and technology.</p>
+<p align="left">I enjoy exploring the world of programming and robotics. Within this repository, you'll discover projects, exercises, and explorations centered around programming, computer science, and technology.</p>
 
 ###
 
