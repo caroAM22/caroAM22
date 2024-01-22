@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Carolina, a student of Computer Engineering</h1>
+<h1 align="left">Hello! I'm Carolina/h1>
 
 ###
 
