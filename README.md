@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Carolina/h1>
+<h1 align="left">Hello! I'm Carolina</h1>
 
 ###
 
