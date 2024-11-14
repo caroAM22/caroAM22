@@ -29,8 +29,6 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div>
 
 ###
@@ -39,7 +37,7 @@
 
 ###
 
-<img align="left" height="100" src="https://i0.wp.com/www.lacosacine.com/wp-content/uploads/2019/04/drogon.gif?resize=400%2C225&ssl=1"  />
+<img align="left" height="100" src="[https://i0.wp.com/www.lacosacine.com/wp-content/uploads/2019/04/drogon.gif?resize=400%2C225&ssl=1](https://i.pinimg.com/originals/f3/25/23/f325239b554a35cbaa1fad400cfb59b3.gif)"  />
 
 ###
 
